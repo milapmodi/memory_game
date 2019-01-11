@@ -7,8 +7,6 @@ The game logic is divided in 5 major parts
 * Start Game
 * Shuffle
 * Matching Cards
-* Disable and Enable Card
-* Showing end game modal
 
 ## Start Game
 
